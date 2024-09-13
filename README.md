@@ -5,12 +5,12 @@ Aplicación web que te salida por pantalla
 
 ## Etapas
 
-### Sprint 1
+### Spring 1
 - [x] crear la estructura html
 - [x] aplicar estilos con css
 - [x] dotar de comportamiento con js
 - [ ] deploy
 
-### Sprint 2
-- [ ] mejorar la interfaz gráfica
-- [ ] poner el cofetti
+### Spring 2
+- [x] mejorar la interfaz gráfica
+- [x] poner el cofetti
