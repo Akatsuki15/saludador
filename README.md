@@ -1,7 +1,7 @@
 # Saludator
 
 ## Descripción
-Ejercicio de ina Aplicación web que te salida por pantalla
+Ejercicio de una Aplicación web que te salida por pantalla
 
 ## Tecnologías
 
