@@ -1,7 +1,17 @@
 # Saludator
 
 ## Descripción
-Aplicación web que te salida por pantalla
+Ejercicio de ina Aplicación web que te salida por pantalla
+
+## Tecnologías
+
+- html
+- css
+- js (vanilla)
+
+## Deploy en Github
+
+https://akatsuki15.github.io/saludador/
 
 ## Etapas
 
@@ -14,3 +24,9 @@ Aplicación web que te salida por pantalla
 ### Spring 2
 - [x] mejorar la interfaz gráfica
 - [x] poner el cofetti
+
+## git
+
+- git add .
+- git commit -m "texto"
+- git push origin master
